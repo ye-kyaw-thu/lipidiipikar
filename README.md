@@ -5,6 +5,8 @@ Lipidiipikar is the first telegraph code for Burmese (Myanmar language), invente
 
 Ye Kyaw Thu, LU Lab Leader, released the Lipidiipikar simulation code under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
 
+Please refer to the [LICENSE.txt](https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/LICENSE.txt) file.  
+
 
 ## References
 
