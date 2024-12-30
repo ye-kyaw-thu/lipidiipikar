@@ -61,6 +61,18 @@ Ye Kyaw Thu, LU Lab Leader, released the Lipidiipikar simulation code under the 
 
 Please refer to the [LICENSE.txt](https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/LICENSE.txt) file.  
 
+## Citation
+
+If you want to use Lipidiipikar in your research, I would appreciate it if you use the following reference:  
+
+```
+@misc{ye2024lipidiipikar,
+	author = {Ye Kyaw Thu},
+	title = {Hacking Lipidiipikar},
+	howpublished = {https://github.com/ye-kyaw-thu/lipidiipikar},
+	year = {2024}
+}
+```
 
 ## References
 
