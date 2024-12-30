@@ -39,6 +39,15 @@ The encoded content will be as follows:
 
 ## GUI Information  
 
+If you want to run the program with a GUI, ensure that the "index.html" file is located in the templates folder. Run the following command in your terminal:
+
+```
+python lipi-gui.py
+```
+
+Copy and paste the generated HTTP link (e.g., http://127.0.0.1:5000) into your web browser.   
+You will see the following Lipidiipikar GUI simulation in your browser.  
+
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/lipidiipikar-gui-ver1.0.png" alt="lipidiipikar-gui-ver1.0.png" width="600"/>  
 </p>  
