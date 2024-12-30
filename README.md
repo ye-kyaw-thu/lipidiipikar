@@ -1,6 +1,42 @@
 # lipidiipikar
 Lipidiipikar is the first telegraph code for Burmese (Myanmar language), invented by Yaw Min Gyi U Pho Hlaing in 1869. I have developed a software simulation of this encoding based on two books: Lipidiipikar, written by Yaw Min Gyi U Pho Hlaing in 1869, and Myanmar Scientists of the Konbaung Period, written by Dr. Myo Thant Tin in 1984.
 
+## Usage Information
+
+You can get usage information by running the script with the --help option.  
+
+```
+$ python ./lipi.py --help
+usage: lipi.py [-h] [--input INPUT] [--output OUTPUT]
+
+Myanmar Text Processor
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --input INPUT, -i INPUT
+                        Input filename
+  --output OUTPUT, -o OUTPUT
+                        Output filename
+```
+
+The following is an example text from the original Lipidiipikar book:  
+
+```
+စကားပြောနန်းတန်းလုပ်စေသူစာရေးကြီးအသုံးစာရေးတို့စကားပြောနန်းတန်းရန်လမ်းတွင်တိုင်စိုက်လုပ်ရန်မှစ၍အရပ်ရပ်လုပ်ဆောင်ရန်ရှိသည်များကို၁၂၃၁ခုနှစ်အတွင်းပြီးပြေအောင်လုပ်ဆောင်ကြရမည်ခတ်လှေအဆန်တွင်လည်းမည်ရွေ့မည်မျှလုပ်ဆောင်ပြီးပြေသည်များကိုမပြတ်တင်လျှောက်လိုက်ရမည်။
+```
+
+For encoding the raw1.txt file, run the following command:  
+
+```
+python ./lipi.py --input ./raw1.txt --output ./raw1.lipi
+```
+
+The encoded content will be as follows:  
+
+```
+စအ ကအား ပရဩ နအနး တအနး လဥပ စဧ သဦ စအာ ရဧး ကရဤး အ သဥံး စအာ ရဧး တအို့ စအ ကအား ပရဩ နအနး တအနး ရအန လအမး တဝအင တအိုင စအိုက လဥပ ရအန မဟအ စအ ရဝဧ့ အ ရအပ ရအပ လဥပ ဆဩင ရအန ရဟဣ သအည မယအား ကအို ၁ ၂ ၃ ၁ ခဥ နဟအစ အ တဝအငး ပရဤး ပရဧ ဩင လဥပ ဆဩင ကရအ ရအ မအည ခအတ လဟဧ အ ဆအန တဝအင လအညး မအည ရဝဧ့ မအည မယဟအ လဥပ ဆဩင ပရဤး ပရဧ သအည မယအား ကအို မအ ပရအတ တအင လယဟဩက လအိုက ရအ မအည
+```
+
 ## GUI Information  
 
 <p align="center">
