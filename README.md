@@ -21,4 +21,6 @@ Please refer to the [LICENSE.txt](https://github.com/ye-kyaw-thu/lipidiipikar/bl
 
 1. Electrical Telegraph, [https://en.wikipedia.org/wiki/Electrical_telegraph](https://en.wikipedia.org/wiki/Electrical_telegraph)
 2. လိပိဒီပိကာကျမ်း၊ ယောအတွင်းဝန် ဦးဖိုးလှိုင်၊ ၁၈၆၉၊ typed/digitized by CleanText, [lipidiipikar.pdf](https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/references/lipidiipikar.pdf)
-3. ကုန်းဘော်ခေတ် မြန်မာ့သိပ္ပံပညာရှင်များ၊ ဒေါက်တာမျိုးသန့်တင်၊ စာပေလောက သုတစာအုပ်အမှတ် ၁၅၃၊ စာပေလောက စာအုပ်တိုက်၊ ဒီဇင်ဘာ ၁၉၈၄  
+3. ကုန်းဘော်ခေတ် မြန်မာ့သိပ္ပံပညာရှင်များ၊ ဒေါက်တာမျိုးသန့်တင်၊ စာပေလောက သုတစာအုပ်အမှတ် ၁၅၃၊ စာပေလောက စာအုပ်တိုက်၊ ဒီဇင်ဘာ ၁၉၈၄
+4. [The Unicode Standard, Version 16.0](https://www.unicode.org/charts/PDF/U1000.pdf)
+5. [မြန်မာသင်ပုန်းကြီး](https://my.wikipedia.org/wiki/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%9E%E1%80%84%E1%80%BA%E1%80%95%E1%80%AF%E1%80%94%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BC%E1%80%AE%E1%80%B8)
