@@ -91,7 +91,7 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 <img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/my-kyaenan-dial.png" alt="Myanmar KyaeNan Dial" width="380"/>  
 </p>  
 <div align="center">
-  Fig. ရှေးခေတ် မြန်မာ့ကြေးနန်း ဒိုင်ခွက် (ABC machine နဲ့တွဲသုံးခဲ့ဟု ယူဆ)။   
+  Fig. ရှေးခေတ် မြန်မာ့ကြေးနန်း ဒိုင်ခွက် (ABC machine နဲ့တွဲသုံးခဲ့ဟု ယူဆ)။    
 	(Source: ကုန်းဘောင်ခေတ် မြန်မာ့သိပ္ပံပညာရှင်များ စာအုပ်)  
 </div> 
 
@@ -101,7 +101,7 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 <img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/confirmation-of-the-method.png" alt="2nd proof" width="600"/>  
 </p>  
 <div align="center">
-  Fig. နောက်ထပ် သက်သေတစ်ခုက အထက်ပါစာပိုဒ်မှာ ဖော်ပြထားတဲ့ "ကွတ်နှင့်ဝှီစတုံး"   
+  Fig. နောက်ထပ် သက်သေတစ်ခုက အထက်ပါစာပိုဒ်မှာ ဖော်ပြထားတဲ့ "ကွတ်နှင့်ဝှီစတုံး"    
 	(Source: ကုန်းဘောင်ခေတ် မြန်မာ့သိပ္ပံပညာရှင်များ စာအုပ်)
 </div> 
 
