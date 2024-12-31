@@ -1,6 +1,9 @@
 # lipidiipikar (လိပိဒီပိကာ)
-Lipidiipikar is the first telegraph code for Burmese (Myanmar language), invented by Yaw Min Gyi U Pho Hlaing in 1869. I have developed a software simulation of this encoding based on two books: Lipidiipikar, written by Yaw Min Gyi U Pho Hlaing in 1869, and Myanmar Scientists of the Konbaung Period, written by Dr. Myo Thant Tin in 1984.
+Lipidiipikar is the first telegraph code for Burmese (Myanmar language), invented by [Yaw Min Gyi U Pho Hlaing](https://my.wikipedia.org/wiki/%E1%80%98%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9C%E1%80%BE%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%81%8A_%E1%80%A6%E1%80%B8(%E1%80%9A%E1%80%B1%E1%80%AC%E1%80%99%E1%80%84%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BC%E1%80%AE%E1%80%B8)) in 1869. I have developed a software simulation of this encoding based on two books: Lipidiipikar, written by Yaw Min Gyi U Pho Hlaing in 1869, and Myanmar Scientists of the Konbaung Period, written by Dr. Myo Thant Tin in 1984.
 
+## Hacking Lipidiipikar Encoding
+
+ယောမင်းကြီး ဦးဖိုးလှိုင်က ၁၈၆၉ ရေးသားခဲ့တဲ့ လိပိဒီပိကာကျမ်း စာအုပ်ကို CleanText ကုမ္ပဏီက စာပြန်ရိုက်ပြီး digitized လုပ်ထားတဲ့ စာအုပ်ကို အွန်လိုင်းကနေတဆင့် ဖတ်ဖူးခဲ့တာကတော့ နှစ်တော်တော်ကြာခဲ့ပါပြီ။ ကွန်ပျူတာသမား တစ်ယောက်အနေနဲ့ကြည့်ရင် encoding method တစ်ခုမို့လို့ စိတ်ဝင်စားတာကော၊ မြန်မာစာကို ကြေးနန်းရိုက်လို့ရအောင် မြန်မာလူမျိုးပညာရှင်ကြီးတစ်ဦးဖြစ်တဲ့ ဦးဖိုးလှိုင်က ရေးသားခဲ့တဲ့ ပရိုပိုဇယ်လည်းဖြစ်တာကြောင့် encoding simulation ကို ဒီနှစ် ဩဂုတ်လလောက်ကတည်းက ပြင်ဆင်ဖြစ်ခဲ့တယ်။ ခက်တာက လိပိဒီပိကာကျမ်း အပြင် မြန်မာ့ကြေးနန်းအကြောင်း ရေးသားထားတာက များများစားစား ရှိပုံမရဘူး။ ဦးဖိုးလှိုင်က စာအုပ်ထုတ်ဝေပြီး သိပ်မကြာခင်မှာပဲ  
 ## Usage Information
 
 You can get usage information by running the script with the --help option.  
