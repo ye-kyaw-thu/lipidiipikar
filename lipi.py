@@ -30,7 +30,6 @@ def create_break_pattern():
         + r"|[" + en_char + other_char + r"])"
     )
 
-
 def break_syllables(line, break_pattern, separator=" "):
     """Applies syllable breaking rules to a line."""
     line = re.sub(r'\s+', ' ', line.strip())
@@ -40,7 +39,6 @@ def break_syllables(line, break_pattern, separator=" "):
     double_delimiter = separator + " " + separator
     segmented_line = segmented_line.replace(double_delimiter, " ")
     return segmented_line
-
 
 def process_syllable_with_athat(syllable):
     """
@@ -56,8 +54,8 @@ def process_syllable_with_athat(syllable):
             if len(first_part) == 1 and re.match(r"^[က-အ]$", first_part):
                 first_part = first_part + "အ"
             # Remove "အ" if it is part of a longer string containing other vowels, medials, or characters
-            elif len(first_part) > 1 and first_part.startswith("အ"):
-                first_part = first_part[1:]
+            #elif len(first_part) > 1 and first_part.startswith("အ"):
+            #    first_part = first_part[1:]
 
             # Concatenate the processed first and second parts into one syllable
             combined_syllable = first_part + middle_part_consonant + second_part
@@ -65,7 +63,6 @@ def process_syllable_with_athat(syllable):
             return [combined_syllable]  # Return as a single item
 
     return [syllable]  # Return as is if no "်" found
-
 
 def process_text(line, break_pattern):
     """Processes the text line by line for syllable breaking and conversion."""
@@ -78,7 +75,7 @@ def process_text(line, break_pattern):
     # Step 3: Apply syllable segmentation
     syllables = break_syllables(line, break_pattern).split(" ")
 
-    #print("byii:", syllables) 
+    #print("4:", syllables) 
     # Step 4: Substitute Myanmar consonants
     consonant_substitutions = {
         "ဃ": "ဂ", "ဈ": "ဇ", "ဋ": "တ", "ဌ": "ထ",
@@ -92,7 +89,6 @@ def process_text(line, break_pattern):
         for syl in syllables
     ]
 
-    #print("byii-sub:", syllables) 
     # Step 5: Add "အ" for consonants without vowels
     syllables = [
         syl + "အ" if re.match(r"^[က-အ]$", syl) and syl != "အ" else syl
@@ -280,6 +276,7 @@ def process_text(line, break_pattern):
     "ှ": "ဟအ",
     "ွ": "ဝအ"
     }
+
 
     # Ensure longest substitutions are applied first
     sorted_keys = sorted(vowel_substitutions.keys(), key=len, reverse=True)
