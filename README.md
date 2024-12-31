@@ -94,6 +94,16 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
   Fig. ရှေးခေတ် မြန်မာ့ကြေးနန်း ဒိုင်ခွက် (ABC machine နဲ့တွဲသုံးခဲ့ဟု ယူဆ)  
 </div> 
 
+<br />
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/confirmation-of-the-method.png" alt="2nd proof" width="380"/>  
+</p>  
+<div align="center">
+  Fig. နောက်ထပ် သက်သေတစ်ခုက အထက်ပါစာပိုဒ်မှာ ဖော်ပြထားတဲ့ "ကွတ်နှင့်ဝှီစတုံး"  
+</div> 
+
+
 ရှေးခေတ် မြန်မာ့ကြေးနန်း ဒိုင်ခွက် ပုံရယ်၊ ရှေ့က သိထားတဲ့ လိပိဒီပိကာထဲက အကျယ်ရေးနည်းရယ်ကို အခြေခံပြီး encoding simulation ကို python programming language နဲ့ coding လုပ်ဖြစ်ခဲ့တယ်။ Regular expression ကို အခြေခံတဲ့ rule-based နည်းလမ်းပါပဲ။ Algorithm ကို အလွယ်ရှင်းပြရရင် အောက်ပါအတိုင်းပါ။  
 
 ### Algorithm of Lipidiipika Encoding  
