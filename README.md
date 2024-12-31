@@ -76,7 +76,7 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/1280px-Wallace_Study-Telegraph.jpg" alt="" width="330"/>  
-<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/five-needle-telegraph-machine-from-PowerHouse-Collections.png" alt="Five Neddle Telegraph Machine" width="330"/>
+<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/five-needle-telegraph-machine-from-PowerHouse-Collections.png" alt="Five Neddle Telegraph Machine" width="300"/>
 <img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/ABC_machine-wiki.jpg" alt="ABC Machine" width="230"/>
 </p>  
 <div align="center">
