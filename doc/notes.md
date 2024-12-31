@@ -1,4 +1,6 @@
-# Lipidipika Experiment Log
+# Lipidiipika Experiment Log
+
+Lipidipika encoding ကို လေ့လာနေစဉ်၊ coding လုပ်နေစဉ်မှာ မှတ်သားထားခဲ့တဲ့ note ဖိုင် တစ်ဖိုင်ပါ။  
 
 ## Fact-1
 
