@@ -104,7 +104,7 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 </div> 
 
 
-ရှေးခေတ် မြန်မာ့ကြေးနန်း ဒိုင်ခွက် ပုံရယ်၊ ရှေ့က သိထားတဲ့ လိပိဒီပိကာထဲက အကျယ်ရေးနည်းရယ်ကို အခြေခံပြီး encoding simulation ကို python programming language နဲ့ coding လုပ်ဖြစ်ခဲ့တယ်။ Regular expression ကို အခြေခံတဲ့ rule-based နည်းလမ်းပါပဲ။ Algorithm ကို အလွယ်ရှင်းပြရရင် အောက်ပါအတိုင်းပါ။  
+ရှေးခေတ် မြန်မာ့ကြေးနန်း ဒိုင်ခွက် ပုံရယ်၊ ရှေ့က သိထားတဲ့ လိပိဒီပိကာထဲက အကျယ်ရေးနည်းရယ်ကို အခြေခံပြီး encoding simulation ကို python programming language နဲ့ codingဆက်လုပ်ဖြစ်ခဲ့တယ်။ Regular expression ကို အခြေခံတဲ့ rule-based နည်းလမ်းပါပဲ။ Algorithm ကို အလွယ်ရှင်းပြရရင် အောက်ပါအတိုင်းပါ။  
 
 ### Algorithm of Lipidiipika Encoding  
 
