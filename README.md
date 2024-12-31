@@ -237,3 +237,4 @@ If you want to use Lipidiipikar in your research, I would appreciate it if you u
 6. [Wiki page of Yaw Min Gyi U Phoe Hlaing (ယောမင်းကြီး ဦးဘိုးလှိုင်)](https://my.wikipedia.org/wiki/%E1%80%98%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9C%E1%80%BE%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%81%8A_%E1%80%A6%E1%80%B8(%E1%80%9A%E1%80%B1%E1%80%AC%E1%80%99%E1%80%84%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BC%E1%80%AE%E1%80%B8))
 7. [Needle_telegraph, Wiki](https://en.wikipedia.org/wiki/Needle_telegraph)
 8. [Morse code, Wiki](https://en.wikipedia.org/wiki/Morse_code)
+9. [Museums Victoria Collections](https://collections.museumsvictoria.com.au/articles/1798)
