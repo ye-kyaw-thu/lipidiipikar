@@ -96,6 +96,8 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 
 ရှေးခေတ် မြန်မာ့ကြေးနန်း ဒိုင်ခွက် ပုံရယ်၊ ရှေ့က သိထားတဲ့ လိပိဒီပိကာထဲက အကျယ်ရေးနည်းရယ်ကို အခြေခံပြီး encoding simulation ကို python programming language နဲ့ coding လုပ်ဖြစ်ခဲ့တယ်။ Regular expression ကို အခြေခံတဲ့ rule-based နည်းလမ်းပါပဲ။ Algorithm အကျဉ်းက အောက်ပါအတိုင်းပါ။  
 
+### Algorithm of Lipidiipika Encoding  
+
 1. **Character Substitution**
    - Syllable breaking မလုပ်ခင်မှာ အရင်ဆုံး ပါဌ်ဆင့် သင်္ကေတ "္" ကို အစားထိုးရမယ်။ ပြီးတော့ "ဣဤဥဦ" တို့ကို အကျဉ်းရေးနည်းနဲ့ ပြောင်းရေးထားလိုက်တယ်။  
    
