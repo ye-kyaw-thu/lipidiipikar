@@ -80,7 +80,7 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 <img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/ABC_machine-wiki.jpg" alt="ABC Machine" width="230"/>
 </p>  
 <div align="center">
-  Fig. (1) Morse Key (Wiki), (2) Cooke and Wheatstone five niddle telegraph (source: Power House Collections), (3) ABC Machine  
+  Fig. (1) Morse Key (Wiki), (2) Cooke and Wheatstone five niddle telegraph (source: Power House Collections), (3) ABC Machine (source: Common Wiki)  
 </div> 
 
 <br />
@@ -238,3 +238,4 @@ If you want to use Lipidiipikar in your research, I would appreciate it if you u
 7. [Needle_telegraph, Wiki](https://en.wikipedia.org/wiki/Needle_telegraph)
 8. [Morse code, Wiki](https://en.wikipedia.org/wiki/Morse_code)
 9. [Museums Victoria Collections](https://collections.museumsvictoria.com.au/articles/1798)
+10. [ABC Machine figure, Commons Wiki](https://commons.wikimedia.org/wiki/File:ABC_machine.jpg)
