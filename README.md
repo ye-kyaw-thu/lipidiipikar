@@ -97,7 +97,7 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 <br />  
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/confirmation-of-the-method.png" alt="2nd proof" width="450"/>  
+<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/confirmation-of-the-method.png" alt="2nd proof" width="600"/>  
 </p>  
 <div align="center">
   Fig. နောက်ထပ် သက်သေတစ်ခုက အထက်ပါစာပိုဒ်မှာ ဖော်ပြထားတဲ့ "ကွတ်နှင့်ဝှီစတုံး"  
