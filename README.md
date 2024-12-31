@@ -80,7 +80,7 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 <img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/ABC_machine-wiki.jpg" alt="ABC Machine" width="230"/>
 </p>  
 <div align="center">
-  Fig. Left: Morse Key, Center: Cooke and Wheatstone five niddle telegraph, Right: ABC Machine  
+  Fig. (1) Morse Key, (2) Cooke and Wheatstone five niddle telegraph, (3) ABC Machine  
 </div> 
 
 <br />
