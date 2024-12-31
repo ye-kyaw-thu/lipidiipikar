@@ -4,7 +4,7 @@
 Simulation of Lipidiipikar encoding.
 Version 1.0.
 Written by Ye Kyaw Thu, Language Understanding Lab., Myanmar.
-Last updated: 30 December 2024.
+Last updated: 31 December 2024.
 
 How to run:  
 python ./lipi.py --help  
