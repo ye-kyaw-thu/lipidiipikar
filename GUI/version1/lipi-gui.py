@@ -4,7 +4,7 @@
 GUI simulation of Lipidiipikar encoding.
 Version 1.0.
 Written by Ye Kyaw Thu, Language Understanding Lab., Myanmar.
-Last updated: 30 December 2024.
+Last updated: 31 December 2024.
 
 How to run:
 1. Run the following command in your terminal:
@@ -60,8 +60,8 @@ def process_syllable_with_athat(syllable):
             if len(first_part) == 1 and re.match(r"^[က-အ]$", first_part):
                 first_part = first_part + "အ"
             # Remove "အ" if it is part of a longer string containing other vowels, medials, or characters
-            elif len(first_part) > 1 and first_part.startswith("အ"):
-                first_part = first_part[1:]
+            #elif len(first_part) > 1 and first_part.startswith("အ"):
+            #    first_part = first_part[1:]
 
             # Concatenate the processed first and second parts into one syllable
             combined_syllable = first_part + middle_part_consonant + second_part
