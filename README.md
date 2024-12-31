@@ -74,7 +74,16 @@ Table. လိပိဒီပိကာ အကျယ်ရေးနည်း ဥ�
 
 တကယ်က ကျွန်တော်က Global Information and Telecommunication ဆိုတဲ့ ဘာသာရပ်နဲ့ ဂျပန်နိုင်ငံ ဝါဆဲဒတက္ကသိုလ်မှာ မဟာဘွဲ့၊ ဒေါက်တာဘွဲ့ ယူခဲ့တာမို့လို့ ဆက်သွယ်ရေးအင်ဂျင်နီယာ (communication engineering) နဲ့ ပတ်သက်တဲ့ ပညာရပ်တချို့ကို သင်ကြားဖူးခဲ့ပါတယ်။ သို့သော်လည်း ကုန်းဘောင်ခေတ်ပတ်ဝန်းကျင် ၁၈၀၀ကျော်လောက်က သုံးခဲ့ကြတဲ့ hardware တွေနဲ့ electrical telegraph machine တွေနဲ့ ပတ်သက်ပြီး မသင်ခဲ့ရ၊ မရင်းနှီးခဲ့တာက အမှန်ပါပဲ။ ဒီလိုနဲ့ ၂၀၂၄ စက်တင်ဘာ၊ အောက်တာဘာလအတွင်းမှာ ဟိုရောက်ဒီရောက်နဲ့ ရှာဖွေလေ့လာဖြစ်သွားပြီး အင်တာနက် အွန်လိုင်းပြတိုက်တချို့ရဲ့ website တွေကနေ ၁၈၅၀ ပတ်ဝန်းကျင်က အသုံးပြုခဲ့ကြတဲ့ ကြေးနန်းစက်တွေနည်း ပတ်သက်ပြီး တော်တော်လေး တီးမိခေါက်မိရှိလာပါတယ်။ အဲဒါနဲ့ အောက်ပါ စက်သုံးမျိုးထဲက မြန်မာမှာ ပထမဆုံး ကြေးနန်း ပို့ဖို့အတွက် သုံးခဲ့တဲ့စက်က ABC machine ဖြစ်ဖို့ များတယ်လို့ ခန့်မှန်းခဲ့ပါတယ်။ 
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/1280px-Wallace_Study-Telegraph.jpg" alt="30-70 graph" width="330"/>  
+<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/five-needle-telegraph-machine-from-PowerHouse-Collections.png" alt="40-60 graph" width="330"/>
+<img src="https://github.com/ye-kyaw-thu/lipidiipikar/blob/main/pic/ABC_machine-wiki.jpg" alt="50-50 graph" width="330"/>
+</p>  
+<div align="center">
+  Fig.  
+</div> 
 
+<br />
 
 
 ကတော့ မရှိပဲ 24 Oct 2024 မှာ ဒေါက်တာ
