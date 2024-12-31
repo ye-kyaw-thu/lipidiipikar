@@ -10,7 +10,6 @@ Lipidiipikar is the first telegraph code for Burmese (Myanmar language), invente
 <div align="center">
 	
 | က   | ခ   | ဂ   | င   |  
-|-----|-----|-----|-----|  
 | စ   | ဆ   | ဇ   | ည   |  
 | တ   | ထ   | ဒ   | န   |  
 | ပ   | ဖ   | ဘ   | မ   |  
