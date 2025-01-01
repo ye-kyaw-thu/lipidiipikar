@@ -293,7 +293,7 @@ def process_text(line, break_pattern):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Myanmar Text Processor")
+    parser = argparse.ArgumentParser(description="Lipidiipikar encoder (version 1.0)")
     parser.add_argument("--input", "-i", help="Input filename", default=None)
     parser.add_argument("--output", "-o", help="Output filename", default=None)
     args = parser.parse_args()
