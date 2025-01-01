@@ -160,7 +160,7 @@ You can get usage information by running the script with the --help option.
 $ python ./lipi.py --help
 usage: lipi.py [-h] [--input INPUT] [--output OUTPUT]
 
-Myanmar Text Processor
+Lipidiipikar encoder (version 1.0)
 
 optional arguments:
   -h, --help            show this help message and exit
