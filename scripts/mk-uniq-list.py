@@ -1,5 +1,4 @@
 """
-
 Removing 1st character from both of the columns. Sorting, Unique feature also supported.
 Written by Ye Kyaw Thu, LU Lab., Myanmar
 Last updated: 30 Dec 2024
