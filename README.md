@@ -232,7 +232,7 @@ If you want to use Lipidiipikar in your research, I would appreciate it if you u
 1. Consider adding detailed options, such as using "ဂ" (ga) for transmitting Myanmar numbers, or incorporating a "flag" to indicate the end of a sentence.
 2. Test with text from social media and entries from the Pali dictionary.
 3. Implement decoding functionality to revert back to normal text.
-4. Find this book --> The Leepeedeepeeka, Telegraph Code for Burma, Translated by Major A.R. MacMahon, Secretariat Press, Rangoon, 1871.  
+4. Must find this book --> The Leepeedeepeeka, Telegraph Code for Burma, Translated by Major A.R. MacMahon, Secretariat Press, Rangoon, 1871.  
 
 ## References
 
