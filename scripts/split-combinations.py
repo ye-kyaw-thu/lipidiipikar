@@ -1,3 +1,9 @@
+"""
+For splitting files based on title starting with "## Combination-".
+Written by Ye Kyaw Thu, LU Lab., Myanmar.
+Last updated: 30 Dec 2024.
+"""
+
 import os
 import re
 import argparse
